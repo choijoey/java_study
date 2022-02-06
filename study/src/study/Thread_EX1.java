@@ -1,6 +1,6 @@
-package java_study;
+package study;
 
-public class Thread1 {
+public class Thread_EX1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
